@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Norway Ocean Snow",
+        "name": "",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Marakech Morocco Hotel",
+        "name": "Marakech Morocco Hotel",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "New York Towers",
+        "name": "New York Towers",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Turkey Ballons",
+        "name": "Turkey Hot Air Balloons",
+        "button": "View Destination"
+    }
+]
