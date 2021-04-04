@@ -5,7 +5,7 @@ import {FaBars} from 'react-icons/fa'
 import { menuData } from '../data/MenuData.js'
 import { Button } from "./Button.js"
 
-const Header = ({ siteTitle }) => {
+const Header = () => {
 
   return (
     <Nav>
