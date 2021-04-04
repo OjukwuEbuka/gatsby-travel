@@ -1,6 +1,6 @@
 import * as React from "react"
 
-import Header from "./Header.js"
+import Header from "./Head.js"
 import Footer from "./Footer.js"
 import { GlobalStyle } from "./styles/GlobalStyles.js"
 
