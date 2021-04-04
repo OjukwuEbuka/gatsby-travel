@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import EmailBg from "../assets/images/testim-1.jpg"
+import EmailBg from "../assets/images/travel-4.jpg"
 import { Button } from './Button'
 
 const Email = () => {
@@ -42,9 +42,9 @@ export default Email
 const EmailContainer = styled.div`
     background: linear-gradient(
             180deg, 
-            rgba(0,0,0,0.5) 0%, 
-            rgba(0,0,0,0.5) 35%, 
-            rgba(0,0,0,0.5) 100%, 
+            rgba(0, 0, 0, 0.5) 0%, 
+            rgba(0, 0, 0, 0.5) 35%, 
+            rgba(0, 0, 0, 0.1) 100%
         ),
         url(${EmailBg}) no-repeat center;
     background-size: cover;
