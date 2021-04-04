@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { useStaticQuery, graphql } from "gatsby";
 import {GatsbyImage as Img} from 'gatsby-plugin-image'
-import {Button} from './Button'
+import {Button} from './Button.js'
 import {ImLocation} from 'react-icons/im'
 
 const Trips = ({heading}) => {
